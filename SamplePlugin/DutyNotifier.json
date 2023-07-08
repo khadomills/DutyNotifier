@@ -1,0 +1,12 @@
+{
+  "Author": "khadomills",
+  "Name": "Duty Notifier",
+  "Punchline": "Send a push notification to the FFXIV Duty Notifier App when your duty finder pops!",
+  "Description": "/dn - Duty Notifier window and settings",
+  "InternalName": "DutyNotifier",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "khado",
+    "notifications"
+  ]
+}
